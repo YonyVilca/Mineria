@@ -1,0 +1,1 @@
+/workspaces/Mineria/lab01/dimen.csv
